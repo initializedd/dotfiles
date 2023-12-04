@@ -1,3 +1,5 @@
 #!/bin/bash
-chmod +x nvim/install.sh
-nvim/install.sh
+cd nvim
+chmod +x install.sh
+./install.sh
+cd ..

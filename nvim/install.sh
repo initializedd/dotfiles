@@ -1,5 +1,5 @@
 #!/bin/bash
-plugin_path="nvim/pack/plugins/start"
+plugin_path="pack/plugins/start"
 
 mkdir -p "$plugin_path"
 
