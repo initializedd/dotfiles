@@ -41,3 +41,4 @@ opt.updatetime = 250        -- ms to wait for trigger an event
 -- Startup
 -----------------------------------------------------------
 opt.shortmess:append 'sI'   -- Disable nvim intro
+

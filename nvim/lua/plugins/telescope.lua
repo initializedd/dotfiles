@@ -24,3 +24,4 @@ vim.keymap.set('n', '<leader>fb', builtin.buffers, { desc = 'Find Buffers' }) --
 -- LSP Pickers
 -----------------------------------------------------------
 vim.keymap.set('n', '<leader>fd', builtin.lsp_definitions, { desc = 'Goto LSP Definition' }) -- Goto the definition of the word under the cursor
+

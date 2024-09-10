@@ -26,6 +26,7 @@ repositories=(
     "goolord/alpha-nvim"
     "lukas-reineke/indent-blankline.nvim"
     "folke/which-key.nvim"
+    "esensar/nvim-dev-container"
 )
 
 cd "$plugin_path"
@@ -41,3 +42,4 @@ for repo in "${repositories[@]}"; do
         git clone "https://github.com/$repo" "$repo_name"
     fi
 done
+

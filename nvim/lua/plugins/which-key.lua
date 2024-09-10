@@ -8,3 +8,4 @@ if not status_ok then
 end
 
 wk.register(mappings, opts)
+

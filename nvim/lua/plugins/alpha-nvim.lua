@@ -43,3 +43,4 @@ dashboard.section.buttons.val = {
 dashboard.section.footer.val = footer()
 
 alpha.setup(dashboard.config)
+

@@ -24,3 +24,4 @@ map('n', 'yy', '"+yy', { desc = 'Copy entire line' }) -- Copy entire line
 
 map('v', 'p', '"+P', { desc = 'Paste from clipboard (visual)' }) -- Paste from clipboard in visual mode
 map('n', 'p', '"+P', { desc = 'Paste from clipboard (normal)' }) -- Paste from clipboard in normal mode
+
