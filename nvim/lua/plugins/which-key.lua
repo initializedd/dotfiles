@@ -7,5 +7,8 @@ if not status_ok then
   return
 end
 
-wk.register(mappings, opts)
+wk.setup {
+    preset = "modern",
+    notify = true
+}
 
