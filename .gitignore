@@ -97,7 +97,7 @@ publish
 # *.Publish.xml <- I want to keep this
 
 # Others
-nvim/pack/
+.config/nvim/pack/
 sql
 TestResults
 [Tt]est[Rr]esult*
