@@ -4,7 +4,7 @@
 -----------------------------------------------------------
 local status_ok, builtin = pcall(require, 'telescope.builtin')
 if not status_ok then
-  return
+    return
 end
 
 -----------------------------------------------------------

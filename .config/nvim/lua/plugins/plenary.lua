@@ -4,6 +4,6 @@
 -----------------------------------------------------------
 local status_ok, plenary = pcall(require, 'plenary')
 if not status_ok then
-  return
+    return
 end
 

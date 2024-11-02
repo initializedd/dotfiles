@@ -4,17 +4,17 @@
 -----------------------------------------------------------
 local status_ok, ibl = pcall(require, 'ibl')
 if not status_ok then
-  return
+    return
 end
 
 local highlight = {
-  "RainbowDelimiterRed",
-  "RainbowDelimiterYellow",
-  "RainbowDelimiterBlue",
-  "RainbowDelimiterOrange",
-  "RainbowDelimiterGreen",
-  "RainbowDelimiterViolet",
-  "RainbowDelimiterCyan",
+    "RainbowDelimiterRed",
+    "RainbowDelimiterYellow",
+    "RainbowDelimiterBlue",
+    "RainbowDelimiterOrange",
+    "RainbowDelimiterGreen",
+    "RainbowDelimiterViolet",
+    "RainbowDelimiterCyan",
 }
 
 ibl.setup({
