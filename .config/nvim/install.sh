@@ -26,6 +26,7 @@ repositories=(
     "goolord/alpha-nvim"
     "lukas-reineke/indent-blankline.nvim"
     "folke/which-key.nvim"
+    "lewis6991/gitsigns.nvim"
     "esensar/nvim-dev-container"
     "lervag/vimtex"
 )
