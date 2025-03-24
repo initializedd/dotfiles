@@ -16,5 +16,6 @@ require('plugins/alpha-nvim')
 require('plugins/indent-blankline')
 require('plugins/which-key')
 require('plugins/gitsigns')
+require('plugins/todo-comments')
 require('plugins/nvim-dev-container')
 
