@@ -27,6 +27,7 @@ repositories=(
     "lukas-reineke/indent-blankline.nvim"
     "folke/which-key.nvim"
     "esensar/nvim-dev-container"
+    "lervag/vimtex"
 )
 
 cd "$plugin_path"
